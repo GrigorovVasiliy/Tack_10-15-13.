@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\bin\Debug\net6.0\task_13.exe
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\bin\Debug\net6.0\task_13.deps.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\bin\Debug\net6.0\task_13.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\bin\Debug\net6.0\task_13.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\bin\Debug\net6.0\task_13.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\refint\task_13.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\task_13.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 2\Task_10-13-15\Task_10-13-15\task_13\obj\Debug\net6.0\ref\task_13.dll
